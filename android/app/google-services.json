@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "448509635521",
+    "project_id": "messaging-67254",
+    "storage_bucket": "messaging-67254.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448509635521:android:a015037c1facb660be1d40",
+        "android_client_info": {
+          "package_name": "com.notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448509635521-rgjp20nkd0o1tk8ut09h472434uurfom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK-v3uCnku2I0QaOTKceqhLzLIgfXuGsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448509635521-rgjp20nkd0o1tk8ut09h472434uurfom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
